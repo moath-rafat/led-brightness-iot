@@ -1,0 +1,64 @@
+# React
+# Logs
+led-brightness-web/logs
+led-brightness-web/*.log
+led-brightness-web/npm-debug.log*
+led-brightness-web/yarn-debug.log*
+led-brightness-web/yarn-error.log*
+led-brightness-web/pnpm-debug.log*
+led-brightness-web/lerna-debug.log*
+
+led-brightness-web/node_modules/
+led-brightness-web/dist/
+led-brightness-web/dist-ssr/
+led-brightness-web/*.local/
+
+# Editor directories and files
+led-brightness-web/.vscode/*
+led-brightness-web/!.vscode/extensions.json
+led-brightness-web/.idea
+led-brightness-web/.DS_Store
+led-brightness-web/*.suo
+led-brightness-web/*.ntvs*
+led-brightness-web/*.njsproj
+led-brightness-web/*.sln
+led-brightness-web/*.sw?
+
+# STM32
+# Build Folders
+led-brightness-stm/Debug/
+led-brightness-stm/Release/
+led-brightness-stm/build/
+led-brightness-stm/out/
+
+# STM32CubeIDE metadata
+led-brightness-stm/.settings/
+led-brightness-stm/.cproject
+led-brightness-stm/.project
+led-brightness-stm/.loadpath
+
+# OS / Editor files
+led-brightness-stm/.DS_Store
+led-brightness-stm/Thumbs.db
+led-brightness-stm/.vscode/
+led-brightness-stm/!.vscode/settings.json
+led-brightness-stm/!.vscode/extensions.json
+
+# Compiler / build artifacts
+led-brightness-stm/*.o
+led-brightness-stm/*.d
+led-brightness-stm/*.elf
+led-brightness-stm/*.hex
+led-brightness-stm/*.bin
+led-brightness-stm/*.map
+led-brightness-stm/*.lst
+led-brightness-stm/*.su
+led-brightness-stm/*.gcno
+led-brightness-stm/*.gcda
+
+# Backup files
+led-brightness-stm/*.bak
+led-brightness-stm/*.orig
+
+# esp
+led-brightness-esp/secrets.h
