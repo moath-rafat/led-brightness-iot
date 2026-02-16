@@ -13,6 +13,6 @@ Embedded IoT system for LED brightness control with web dashboard visualization 
 ---
 
 ## Images
-![device0](photosdevice0.jpeg)
-![device1](photosdevice1.jpeg)
-![device2](photosdevice2.jpeg)
+![device0](photos/device0.jpeg)
+![device1](photos/device1.jpeg)
+![device2](photos/device2.jpeg)
